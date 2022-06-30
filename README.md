@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victor-prdh
 - 👀 I’m interested in Web and mobile development 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently mastering PHP with Symfony
 - 📫 Contact me at contact@victor-prdh.com
 
 <!---
