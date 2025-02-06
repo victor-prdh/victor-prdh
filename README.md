@@ -3,7 +3,6 @@
 🚀 **Lead Developer**  
 💻 **Specialized in PHP, Symfony & SaaS Development**  
 🎓 **Instructor at IUT Troyes | Teaching Advanced Web Development**  
-🌐 **Founder of [Illis Digital](https://illis-digital.fr)**  
 
 ---
 
@@ -15,7 +14,7 @@
 
 ### 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/victor-prdh/))  
-[![Website](https://img.shields.io/badge/-Website-darkgreen?style=flat&logo=googlechrome)](https://illis-digital.fr)  
+[![Website](https://img.shields.io/badge/-Website-darkgreen?style=flat&logo=googlechrome)](https://victor-prdh.com)  
 
 ---
 
