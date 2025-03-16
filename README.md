@@ -3,6 +3,7 @@
 🚀 **Lead Developer**  
 💻 **Specialized in PHP, Symfony & SaaS Development**  
 🎓 **Instructor at IUT Troyes | Teaching Advanced Web Development**  
+🧑‍💻 **Founder of [illis-digital](https://illis-digital.fr)**
 
 ---
 
